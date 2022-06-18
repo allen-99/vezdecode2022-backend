@@ -1,6 +1,8 @@
 # vezdecode2022-backend
 
 ## Python (Flask) + mongo
+Все примерны ввода вывода находятся в папке example.
+
 # Задание 10
 Функция ``` get_all_memes_for_date ```. Запроос по url '/get_all_memes' метод GET. Выходные данные: json в значении массив всех мемов из группы Вездекод, а также дополнительные мемами с котиками 
 из сообщества https://vk.com/kotany_university.

@@ -14,7 +14,7 @@ def create_app():
     memes = [mem for mem in db.memes.find()]
 
     if len(memes) == 1:
-        session = vka.Session(access_token='vk1.a.L4FFFww-z8UJshM-rA0GolXZ65y_-4S9_P_FPQNFsl5JVhbtqWcGAYuX6xncZNJ67KR6XBGhhUTS-DzwwKq0xj7p6AVgzC8wtwi0cW94WnrHF3Sdc2ee2lFbe1Fvlyg9QPu0xI4m0fJxX3qLvIMMbtvLtelqwb9Gkd4aYKhgvHgimpp0O_pZ2CBbFQQZB-0u')
+        session = vka.Session(access_token='hehehhehehehehehehehhehehehehehe')
         vk_api = vka.API(session)
         group = '-197700721'
 
